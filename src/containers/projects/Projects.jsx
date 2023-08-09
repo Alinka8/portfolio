@@ -7,7 +7,6 @@ import NavBar from "../../components/navBar/NavBar";
 import ShoppingApp from "../../images/shop.png";
 import MoviesDom from "../../images/moviesdom.jpg";
 import DeliveryForm from "../../images/deliveryform.jpg";
-import Todo from "../../images/todo.jpg";
 import CarDealer from "../../images/cardealer.jpg";
 import Daycare from "../../images/daycare.png";
 import Accounting from "../../images/accounting.jpg";
