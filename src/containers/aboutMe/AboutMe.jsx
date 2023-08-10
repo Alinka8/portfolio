@@ -8,7 +8,7 @@ const AboutMe = () => {
       <NavBar />
       <div className="about-me__container">
         <p>
-          My name is <span>Anisa</span> and I have over 1 years of experience
+          My name is <span>Alina</span> and I have over 1 years of experience
           as a <span>front-end developer</span>. I've worked on various
           projects, ranging from building responsive web applications to
           optimizing website performance. I'm passionate about creating

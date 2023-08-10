@@ -27,7 +27,7 @@ function NavBar() {
     <AppBar
       elevation={0}
       position="static"
-      style={{ backgroundColor: "#b57ca0" }}
+      style={{ backgroundColor: "#BEADFA" }}
     >
       <Container maxWidth="xl">
         <Toolbar disableGutters>
