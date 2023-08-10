@@ -118,9 +118,9 @@ const Contact = () => {
         </div>
         <div className="contact__details">
           <EmailIcon sx={{ width: 40, height: 40 }} />
-          <p>alinazoldubaeva@gmail.com</p>
+          <p>anisazh08@gmail.com</p>
         </div>
-        <p>©2023 Alina Zh</p>
+        <p>©2023 Anisa Zh</p>
       </div>
     </div>
   );

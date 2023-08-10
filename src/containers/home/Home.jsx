@@ -18,7 +18,7 @@ const Home = () => {
           <div className="home__welcome">
             <h1>
               Hello! <br />
-              I’m <span>Alina Zh</span>
+              I’m <span>Anisa Zh</span>
             </h1>
             <p>
               I am web developer who loves to craft attractive design
@@ -32,7 +32,7 @@ const Home = () => {
                     width: 256,
                     height: 64,
                     backgroundColor: "#242424",
-                    color: "#BEADFA",
+                    color: "#b57ca0",
                     textDecoration: "none",
                   }}
                 >
@@ -46,7 +46,7 @@ const Home = () => {
                     width: 256,
                     height: 64,
                     backgroundColor: "#242424",
-                    color: "#BEADFA",
+                    color: "#b57ca0",
                     textDecoration: "none",
                   }}
                 >
@@ -56,7 +56,7 @@ const Home = () => {
             </div>
             <div className="home__icons">
               <a
-                href="https://www.linkedin.com/in/alina-zhol/"
+                href="https://www.linkedin.com/in/anisazh/"
                 className="home__link"
               >
                 <LinkedInIcon sx={{ width: 50, height: 50 }} />
@@ -69,7 +69,7 @@ const Home = () => {
             </div>
           </div>
           <p style={{ fontSize: "0.7rem" }}>
-            ©Copyrights Alina Zh {new Date().getFullYear()}
+            ©Copyrights Anisa Zh {new Date().getFullYear()}
           </p>
         </div>
         <div className="home__right">
